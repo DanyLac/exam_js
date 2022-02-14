@@ -1,0 +1,37 @@
+body{
+    background-color: orange;
+}
+
+.content{
+    margin-left:450px;
+    margin-right: 250px;
+    margin-top: 250px;
+    padding: 300px;
+    background-color: #fbcfbc;
+}
+h1{
+    margin-top: -250px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.search{
+    margin-left: 450px;
+}
+.convertisseur{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+#Changer{
+    margin-left: 200px;
+}
+
+#choix2{
+    margin-left: 100px;
+}
+#Convertir{
+    padding: 20px;
+margin-left: 220px;
+margin-top: 100px;
+}
